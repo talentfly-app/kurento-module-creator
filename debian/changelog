@@ -1,3 +1,10 @@
+kurento-module-creator (6.13.0-0kurento1) testing; urgency=medium
+
+  * Prepare release 6.13.0-0kurento1
+  * debian/control: Depend on Java JDK instead of JRE
+
+ -- Juan Navarro <juan.navarro@gmx.es>  Tue, 17 Dec 2019 13:37:52 +0100
+
 kurento-module-creator (6.12.0-0kurento1) testing; urgency=medium
 
   * Prepare release 6.12.0-0kurento1
